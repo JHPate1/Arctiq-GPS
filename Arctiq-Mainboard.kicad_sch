@@ -1,0 +1,204 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "06a9d3e5-a955-4fb6-8bd7-44bd0f3d3b00")
+	(paper "A4")
+	(title_block
+		(title "Arctiq GPS MainBoard")
+		(date "2026-06-10")
+		(rev "v1")
+		(company "Jyot Patel")
+	)
+	(lib_symbols)
+	(sheet
+		(at 59.69 67.31)
+		(size 35.56 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c7d88a07-2029-48cc-a508-3057f13e5bcd")
+		(property "Sheetname" "GPS Module"
+			(at 59.69 66.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GPS.kicad_sch"
+			(at 59.69 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rpi-cm4-carrier-template"
+				(path "/06a9d3e5-a955-4fb6-8bd7-44bd0f3d3b00"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 101.6)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(color 255 255 255 0)
+		)
+		(uuid "caa71f4c-454d-4ac9-b287-456eafb34991")
+		(property "Sheetname" "CM4 High Speed"
+			(at 101.6 100.9645 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm4-high-speed.kicad_sch"
+			(at 101.6 140.2085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rpi-cm4-carrier-template"
+				(path "/06a9d3e5-a955-4fb6-8bd7-44bd0f3d3b00"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 50.8)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(color 255 255 255 0)
+		)
+		(uuid "fc4c71a5-1008-4ac4-98db-57c838c57d91")
+		(property "Sheetname" "CM4 GPIO"
+			(at 101.6 50.1645 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm4-gpio.kicad_sch"
+			(at 101.6 89.4085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rpi-cm4-carrier-template"
+				(path "/06a9d3e5-a955-4fb6-8bd7-44bd0f3d3b00"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 52.07)
+		(size 50.8 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ff7986a8-17e6-416a-9400-9b92367e884d")
+		(property "Sheetname" "Power Circuitry"
+			(at 165.1 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerCircuitry.kicad_sch"
+			(at 165.1 90.7546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rpi-cm4-carrier-template"
+				(path "/06a9d3e5-a955-4fb6-8bd7-44bd0f3d3b00"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

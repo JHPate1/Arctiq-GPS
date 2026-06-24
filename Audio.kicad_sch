@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4c7b83a6-e8b3-435d-945e-b9f8613161bc")
+	(paper "A4")
+	(title_block
+		(title "Arctiq GPS MainBoard")
+		(date "2026-06-10")
+		(rev "v1")
+		(company "Jyot Patel")
+	)
+	(lib_symbols)
+)
