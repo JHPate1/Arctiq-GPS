@@ -5,7 +5,7 @@ A mainboard PCB design for my custom handheld navigation device.
 
 ## What does it do?
 This might seem vague if you don't know much about the project, so I'll try to explain everything here, along with who I am and my background.
-![PCB Image]([https://cdn.discordapp.com/attachments/1354640349103915079/1519392380946485278/ARCTIQ.png?ex=6a3d63ec&is=6a3c126c&hm=6ef88a9a20e3b742b84d0e475788bbe6f4fea7ad44153b2a11d6e95bde51026c&](https://cdn.discordapp.com/attachments/1354640349103915079/1519392747541233724/image.png?ex=6a3d6443&is=6a3c12c3&hm=0b6528379d22e1f43ac4d728c7869a2336d44913fc49437233e05396d54c33ba&))
+![PCB Image](https://cdn.discordapp.com/attachments/1354640349103915079/1519392747541233724/image.png?ex=6a3d6443&is=6a3c12c3&hm=0b6528379d22e1f43ac4d728c7869a2336d44913fc49437233e05396d54c33ba&)
 ## Who I am
 I'm Jyot Patel, a 14-year-old living in the United States. I recently moved from Canada, where I was raised my entire life (born in India though). I like tinkering and making software projects in my free time, though I never really used GitHub that often. Git CLI just wasn't for me.
 
