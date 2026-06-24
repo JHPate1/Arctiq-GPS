@@ -18,5 +18,12 @@ Honestly, it was kind of a bad idea for a first PCB, but I do have experience wi
 ## The routing looks ugly
 I can admit the routing is terrible, but I checked it for the specific purpose and this will work just fine. I wasn't planning on making a Mona Lisa on a PCB. I just needed a functional board that won't explode after 3 years.
 
+## Known Errors
+
+Any DRC or ERC errors are left on purpose, KiCad was being a pain in the butt during import and export. I couldn't connect some traces, and there are a few schematic/footprint mixups. Take the PCB as the source of truth only!!!
+If you spot anything else, feel free to open an issue.
+
 ### Special Thanks!
 Special thanks to Hack Club Stardance for motivating me on this project. Without your help, I wouldn't have done it!
+
+Thanks to https://github.com/ShawnHymel/rpi-cm4-carrier-template for providing me with the CM4 Carrier template!
