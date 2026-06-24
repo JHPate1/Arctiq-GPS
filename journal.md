@@ -1,3 +1,10 @@
+# Arctiq-GPS Journal
+
+Time after timelapse crash:
+### 19 hours
+Time with total hours
+### 21 hours
+
 ## Power, Storage, and a reference schematic that is actually just malware
 Started the week routing the boost converter, fuel gauge and SD card. That was the plan anyway. Burned through approximately 87 reddit threads, 12 mutually contradictory application notes and 3 datasheets only to realise that the entire schematic was garbage. Not only did I transpose two resistor values, nobody anywhere ever mentions that none of the example component values work if your trace is longer than 2mm. Five hours completely wasted. Only win: I caught this before I ordered boards. That would have been a week waiting for a very expensive coaster.
 
