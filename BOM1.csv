@@ -1,0 +1,72 @@
+#,Designator,Footprint,Qty,Designation,Recommended Spec,Digi-Key Part #,Unit Price,Ext Price
+1,C1,C_0603_1608Metric,1,4.7µF,"4.7µF, X5R/X7R, ≥10V",Search Caps,$0.05,$0.05
+2,C2,C_0603_1608Metric,1,22µF,"22µF, X5R/X7R, ≥10V",Search Caps,$0.05,$0.05
+3,"C3, C6, C19, C21, C22",C_0603_1608Metric,5,100nF,"100nF, X7R, ≥10V",Search Caps,$0.05,$0.25
+4,C4,C_0603_1608Metric,1,10µF,"10µF, X5R/X7R, ≥6.3V",Search Caps,$0.05,$0.05
+5,C5,C_0603_1608Metric,1,33pF,"33pF, C0G/NP0, ≥25V",Search Caps,$0.05,$0.05
+6,C7,C_0603_1608Metric,1,10µF,"10µF, X5R/X7R, ≥6.3V",Search Caps,$0.05,$0.05
+7,C8,C_0603_1608Metric,1,20µF,"20µF, X5R/X7R, ≥6.3V",Search Caps,$0.05,$0.05
+8,C9,C_0603_1608Metric,1,1µF,"1µF, X7R, ≥10V",Search Caps,$0.05,$0.05
+9,"C10, C15, C17",C_0603_1608Metric,3,10µF,"10µF, X5R/X7R, ≥6.3V",Search Caps,$0.05,$0.15
+10,"C11, C12, C32, C33, C35, C36, C37",C_0805_2012Metric,7,22µF,"22µF, X5R/X7R, ≥10V",Search Caps,$0.05,$0.35
+11,"C13, C14, C16, C25, C31",C_0603_1608Metric,5,0.1µF,"0.1µF, X7R, ≥16V",Search Caps,$0.05,$0.25
+12,C18,C_0603_1608Metric,1,1.0µF,"1.0µF, X7R, ≥6.3V",Search Caps,$0.05,$0.05
+13,C20,C_0603_1608Metric,1,47µF,"47µF, X5R/X7R, ≥6.3V min; 10V preferred",Search Caps,$0.05,$0.05
+14,C23,C_0603_1608Metric,1,10nF,"10nF, C0G/NP0, ≥25V",Search Caps,$0.05,$0.05
+15,C24,C_0603_1608Metric,1,10pF,"10pF, C0G/NP0, ≥25V",Search Caps,$0.05,$0.05
+16,C26,C_0603_1608Metric,1,22µF,"22µF, X5R/X7R, ≥6.3V",Search Caps,$0.05,$0.05
+17,C27,C_0603_1608Metric,1,2.2µF,"2.2µF, X7R, ≥10V",Search Caps,$0.05,$0.05
+18,C28,C_0805_2012Metric,1,68nF,"68nF, X7R, ≥10V",Search Caps,$0.05,$0.05
+19,C29,C_0603_1608Metric,1,4.7nF,"4.7nF, X7R/C0G, ≥10V",Search Caps,$0.05,$0.05
+20,C30,C_0603_1608Metric,1,47pF,"47pF, C0G/NP0, ≥25V",Search Caps,$0.05,$0.05
+21,C34,C_0603_1608Metric,1,47µF,"47µF, X5R/X7R, ≥6.3V min; 10V preferred",Search Caps,$0.05,$0.05
+22,D1,LED_0402_1005Metric,1,LED,,Search LEDs,$0.15,$0.15
+23,D2,LED_0402_1005Metric,1,DEBUG,,Search LEDs,$0.15,$0.15
+24,J1,USB_C_Receptacle_GCT_USB4085,1,USB-C Receptacle,,2073-USB4085-GF-ACT-ND,$0.89,$0.89
+25,J2,SolderWire-0.127sqmm_1x02_P3.7mm,1,Conn_01x02_Socket,,Search Connectors,$0.50,$0.50
+26,J3,U.FL_Hirose_U.FL-R-SMT-1_Vertical,1,U.FL Coaxial Connector,,H11891CT-ND,$1.29,$1.29
+27,J4,microSD_HC_Wuerth_693072010801,1,microSD Card Holder,,732-693072010801-1-ND,$3.41,$3.41
+28,J5,JST_NV_B04P-NV_1x04_P5.00mm_Vertical,1,Conn_01x04_Socket,,Search Connectors,$0.50,$0.50
+29,J6,CON_522711569_MOL,1,522711569,,Search Connectors,$0.50,$0.50
+30,J7,PinHeader_1x02_P2.54mm_Vertical,1,01x02 Pin Header,,Search Connectors,$0.50,$0.50
+31,L1,L_1210_3225Metric,1,1.5µH,"1.5µH shielded power inductor, Isat ≥12A, low DCR",Search Inductors,$0.80,$0.80
+32,L2,L_0402_1005Metric,1,27nH,27nH RF inductor/matching part,Search Inductors,$0.80,$0.80
+33,L3,L_0402_1005Metric,1,1µH,"1µH power inductor, Isat ≥6A (0402 unsuitable for BQ25895 power stage)",Search Inductors,$0.80,$0.80
+34,L4,L_0603_1608Metric,1,2.2µH,"2.2µH shielded power inductor, Isat ≥3A, low DCR",Search Inductors,$0.80,$0.80
+35,MK1,Knowles_SPH0645LM4H-6_3.5x2.65mm,1,SPH0645LM4H,MEMS Microphone,6017-SPH0645LM4H-BCT-ND,$3.44,$3.44
+36,Module1,Raspberry-Pi-4-Compute-Module,1,CM4 Compute Module,Raspberry Pi Compute Module 4 (SC0667),2648-SC0667-ND,$63.23,$63.23
+37,"R1, R2",R_0603_1608Metric,2,5.1k,,Search Resistors,$0.01,$0.02
+38,"R3, R10, R23",R_0603_1608Metric,3,10K,,Search Resistors,$0.01,$0.03
+39,R4,R_0603_1608Metric,1,200,ILIM resistor,Search Resistors,$0.01,$0.01
+40,R5,R_0603_1608Metric,1,10kΩ,,Search Resistors,$0.01,$0.01
+41,R6,R_0603_1608Metric,1,12K 1%,,Search Resistors,$0.01,$0.01
+42,"R7, R8, R21, R22",R_0603_1608Metric,4,4.7k,,Search Resistors,$0.01,$0.04
+43,"R9, R14, R15",R_0603_1608Metric,3,10k,,Search Resistors,$0.01,$0.03
+44,"R11, R24, R27, R28",R_0603_1608Metric,4,100k,,Search Resistors,$0.01,$0.04
+45,"R12, R17, R25",R_0603_1608Metric,3,100K,,Search Resistors,$0.01,$0.03
+46,R13,R_0603_1608Metric,1,2.2k,,Search Resistors,$0.01,$0.01
+47,R16,R_0603_1608Metric,1,100,,Search Resistors,$0.01,$0.01
+48,R18,R_0603_1608Metric,1,15k,,Search Resistors,$0.01,$0.01
+49,R19,R_0603_1608Metric,1,1K,,Search Resistors,$0.01,$0.01
+50,R20,R_0603_1608Metric,1,316k,,Search Resistors,$0.01,$0.01
+51,R26,R_0603_1608Metric,1,453k,,Search Resistors,$0.01,$0.01
+52,SW2,Panasonic_EVQPUJ_EVQPUA,1,Push Button Switch,Shielded tactile switch,P8029SCT-ND,$0.60,$0.60
+53,TH1,R_0201_0603Metric,1,10K,Thermistor,Search Resistors,$0.01,$0.01
+54,U1,Texas_RTW_WQFN-24-1EP_4x4mm,1,BQ25895RTW,Battery Buck-Boost Charger,296-44345-1-ND,$3.29,$3.29
+55,U2,ublox_NEO,1,NEO-M9N,GNSS Receiver Module,672-NEO-M9N-00B-ND,$14.69,$14.69
+56,U3,TSOT-23-5_RIT,1,RT9742GGJ5,Power Load Switch,1028-1436-1-ND,$0.92,$0.92
+57,U4,DRL0006A,1,TPS6282533DMQR,Buck Converter 3.3V 2A,296-TPS6282533DMQRCT-ND,$1.25,$1.25
+58,U5,TQFN-16-1EP_3x3mm,1,MAX98357A,Class D Audio Amplifier,MAX98357AETE+TCT-ND,$3.73,$3.73
+59,U6,SOT-23-6,1,USBLC6-2SC6,USB ESD Protection,497-11882-1-ND,$0.67,$0.67
+60,U7,21-0168E_T822-3_MXM,1,MAX17048G+T10,Fuel Gauge IC,MAX17048G+T10CT-ND,$3.62,$3.62
+61,U8,RHL0020A,1,TPS61088RHLR,Boost Converter 10A,296-42129-1-ND,$2.74,$2.74
+62,U9,21-0114C_MXM,1,MAX16054AZT+,Pushbutton On/Off Controller,MAX16054AZT+TCT-ND,$3.71,$3.71
+63,NOB,4 PIN POGO MAG,1,4-Pin Pogo Magnetic Connector,,Amazon: B0GJPCX49H,$9.99,$9.99
+64,NOB,"5 INCH DISPLAY, CAPACITIVE TOUCH, DSI",1,"5"" DSI Capacitive Touch Display",Waveshare 800×480,Amazon: B08H23KB1G,$46.00,$46.00
+65,NOB,Active GNSS ANT,1,Active GNSS Antenna,,AliExpress,$8.00,$8.00
+66,NOB,5000MAH Battery,2,5000mAh LiPo Battery,3.7V with JST PH2.0 connector,Amazon: B0GL1MH5YT,$13.00,$26.00
+67,NOB,128GB SD,1,128GB microSD Card,Kingston Canvas Select Plus,Amazon: B0FCZTYSN6,$23.99,$23.99
+68,NOB,ABS/RESIN ENCLOSURE,1,ABS/Resin Enclosure,Custom enclosure,PCBWAY (custom),$25.00,$25.00
+69,NOB,SPEAKER,1,Speaker,,AliExpress,$5.00,$5.00
+70,NOB,PCB + SHIPPING,1,PCB Fabrication & Shipping,PCB fabrication + component shipping,PCBWAY,$75.00,$75.00
+,,TOTAL,100,,,,,$334.10
